@@ -1,7 +1,9 @@
-fastapi 
-uvicorn 
-streamlit 
-pandas 
-xgboost 
-joblib requests 
+streamlit
+pandas
+numpy
+joblib
+plotly
+shap
+matplotlib
 scikit-learn
+xgboost
